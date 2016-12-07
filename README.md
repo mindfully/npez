@@ -1,5 +1,5 @@
 # npez: Neuroplastic programming? Easy!
-## pronounciations: en-pehz or en-peezee
+## pronounciations: en-pehz, en-pee-eezee, or en-peezee
 
 This is a programming language for reprogramming, and thus repairing, a person's mind.
 
